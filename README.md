@@ -24,7 +24,6 @@
   - Interactive pricing calculator
   - Testimonials and FAQ
   - Call-to-action & contact
-- 🌙 **Dark mode** ready
 - 📱 Fully responsive and performance-optimized
 
 ---
@@ -56,7 +55,8 @@
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/admybrand-landing.git
+git clone https://github.com/urrevaai/ADmyBrand-landing.git
+
 cd admybrand-landing
 
 ### 2. Install Dependencies
@@ -66,6 +66,7 @@ npm install
 ### 3. Run the Dev Server
 
 npm run dev
+
 Visit: http://localhost:3000
 
 ### 🌐 Deploying on Vercel
