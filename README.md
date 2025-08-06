@@ -3,6 +3,7 @@
 > A high-impact, animation-rich landing page for a fictional AI marketing tool. Built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion** — optimized for clarity, performance, and visual storytelling.
 
 ---
+## https://ad-my-brand-theta.vercel.app/
 ![Landing Page Preview](./preview.png)
 
 ## 🔍 Project Overview
